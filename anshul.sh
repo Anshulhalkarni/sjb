@@ -1,3 +1,3 @@
 #!/bin/bash
-name=anshul
+name=dell
 echo "$name"
